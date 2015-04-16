@@ -9,6 +9,11 @@ The application is the first step in the actualization of the White House /
 Opportunity@Work initiative TechHire. We're taking in designs created
 for the organization and bringing them to life.
 
+Jeff will act as the liason to Opportunity@Work where Tyra is the primary
+point of contact. Dave from Google is working on the design. Roy (external) 
+will likely do the slicing into HTML & CSS. Jeff will be your customer, Horace will
+be your technical adivisor.
+
 ## Goal
 
 The application's primary responsibility is to allow companies to register

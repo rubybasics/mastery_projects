@@ -9,6 +9,10 @@ from many sources. Then, as a job seeker, offer you tools to categorize listings
 you're interested in, ignore ones you're not, and maybe even suggest ones that
 you should check out.
 
+Jeff will be your customer, Steve will be your technical adivisor. We will
+pull in fellow students for UX testing. We may pull in some outside help
+on design as necessary.
+
 ## Materials
 
 There are no existing projects or wireframes to build upon.
